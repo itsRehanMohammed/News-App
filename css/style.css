@@ -1,0 +1,12 @@
+.card button,
+.card a {
+  color: #000;
+  font-weight: 700;
+}
+.dark-mode {
+  border: none;
+  background-color: #f8f9fa;
+}
+.nightMode {
+  filter: invert(1);
+}
